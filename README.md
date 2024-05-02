@@ -14,10 +14,12 @@ Key Features:
 
 Tech Stack:
 
-Frontend: HTML, CSS, JavaScript, Bootstrap
-Backend: Node.js
-Development Environment: Replit
-API Integration: Postman API
+1. Frontend: HTML, CSS, JavaScript, Bootstrap
+2. Backend: Node.js
+3. AI: Hugging Face
+4. Development Environment: Replit
+5. API Integration: Postman API
 
 Target Audience:
+
 The AI-Text-Summarizer App caters to students, researchers, professionals, and anyone dealing with large volumes of textual content, providing them with a convenient solution to extract key insights quickly and effectively.
